@@ -10,6 +10,10 @@ World of Mogwais
   \__/\  / \____/\____|__  / \____|__  /____/   __/|___|  (____  /   \_/  \_____  / /\ \_______ \/______  /
        \/                \/          \/     |__|        \/     \/               \/  \/         \/       \/ 
 ```
+
+Inline-style: 
+![alt text](https://github.com/WorldOfMogwais/WoM-Releases/raw/master/screenshot1.png "Main Scene Ingame")
+
 **READ ME, IMPORTANT INSTRUCTIONS FOR THE ALPHA RELEASE !!!**
 
 
