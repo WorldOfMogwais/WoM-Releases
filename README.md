@@ -20,8 +20,15 @@ Inline-style:
 
 General Informations
 --------------------
+As one of the first games ever based on the blockchain technology, the player is immersed in the World of Mogwais and experiences many exciting adventures.
 
-tbd
+We see the gamification of the blockchain technology as an exciting experiment, in which we want to introduce the functionality and advantages of the blockchain technology to a broad audience without specific knowledge in a playful and immersive way.
+
+A project is only as good as its community, who drive the project forward with passion and joy and tell others about it. So if you have a good idea, which is valuable for the project, please write an enhancment issue in github. Thank you for believing in the vision and us and for being part of this exciting journey!
+
+Warmest regards
+The World of Mogwai Team
+
 
 Warnings
 --------
