@@ -27,6 +27,7 @@ We see the gamification of the blockchain technology as an exciting experiment, 
 A project is only as good as its community, who drive the project forward with passion and joy and tell others about it. So if you have a good idea, which is valuable for the project, please write an enhancment issue in github. Thank you for believing in the vision and us and for being part of this exciting journey!
 
 Warmest regards
+
 The World of Mogwai Team
 
 
