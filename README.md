@@ -10,7 +10,7 @@ A project is only as good as its community, who drive the project forward with p
 </p>
 Thank you for believing in the vision and us and for being part of this exciting journey!
 
-Get more information about The World of Mogwais project in our WoM-Wiki: https://github.com/WorldOfMogwais/WoM-Releases/wiki
+Get more information about The World of Mogwais project in our <img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [WoM-Wiki](https://github.com/WorldOfMogwais/WoM-Releases/wiki).
 
 Warmest regards
 
