@@ -10,8 +10,6 @@ A project is only as good as its community, who drive the project forward with p
 </p>
 Thank you for believing in the vision and us and for being part of this exciting journey!
 
-Get more information about The World of Mogwais project in our <img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [WoM-Wiki](https://github.com/WorldOfMogwais/WoM-Releases/wiki).
-
 Warmest regards
 
 The World of Mogwais Team
@@ -33,6 +31,14 @@ Dungeon statistics during the adventure and looting the mobs will enhance the ad
 So stay tuned, we publish new features in short intervals!
 
 <img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [Get the game "The World of Mogwais" (Alpha Version)](https://github.com/WorldOfMogwais/WoM-Releases/releases/)
+
+Please report your enhancements and bugs regarding WoM on our Github page. This makes it easier for us to track them. For better allocation please set the label as "bug", "enhancement" or "question". Thanks a lot for your help! 
+
+<img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [Reported issues](https://github.com/WorldOfMogwais/WoM-Releases/issues)
+
+<img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [Bug triage](https://github.com/orgs/WorldOfMogwais/projects/1)
+
+<img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> [Enhancements proposals](https://github.com/orgs/WorldOfMogwais/projects/4)
 
 ## Why is the game unique?
 ### Bot driven
