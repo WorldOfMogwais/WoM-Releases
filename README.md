@@ -94,4 +94,13 @@ Latest Alpha-Release on youtube:
 " target="_blank"><img src="http://img.youtube.com/vi/3gEIOvnoeRY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
 
+Navigation: [Home](https://github.com/WorldOfMogwais/WoM-Releases/wiki) | 
+[Team](https://github.com/WorldOfMogwais/WoM-Releases/wiki/01-Team) | 
+[Game manual](https://github.com/WorldOfMogwais/WoM-Releases/wiki/02-Game-manual) | 
+[Burning & Interaction Concept](https://github.com/WorldOfMogwais/WoM-Releases/wiki/03-Burning-&-Interaction--Concept) | [Enhancements](https://github.com/WorldOfMogwais/WoM-Releases/wiki/04-Enhancements) | 
+[Known Bugs](https://github.com/WorldOfMogwais/WoM-Releases/wiki/05-Known-Bugs) | 
+[Mogwai Coin](https://github.com/WorldOfMogwais/WoM-Releases/wiki/06-Mogwai-Coin-Cryptocurrency) | 
+[Future developments](https://github.com/WorldOfMogwais/WoM-Releases/wiki/07-Future-developments) | 
+[Impressions & Art](https://github.com/WorldOfMogwais/WoM-Releases/wiki/08-Impressions-&-Art)
+
 
