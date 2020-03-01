@@ -12,7 +12,7 @@ Thank you for believing in the vision and us and for being part of this exciting
 
 Warmest regards
 
-The World of Mogwais Team
+[The World of Mogwais Team](https://github.com/WorldOfMogwais/WoM-Releases/wiki/01-Team)
 <p align="left"><img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> darkfriend77</p> 
 <p align="left"><img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> superreeen </p> 
 <p align="left"><img src="https://www.mogwaicoin.org/images/Mogwai-Logo%2064x64.png" style="float: left;" width="14" height="14"/> metastar77 </p>
